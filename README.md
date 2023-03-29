@@ -1,11 +1,11 @@
 # vue2-shopping
 
-## 接口配置
-###数据库：MySqL
-###用户名：root1
-###密码：123456
-###先运行 npm install 安装依赖包
-###node ./app.js
+## 后台接口配置
+### 数据库：MySqL
+### 用户名：root1
+### 密码：123456
+### 先运行 npm install 安装依赖包
+### node ./app.js
 
 ## Project setup
 ```
