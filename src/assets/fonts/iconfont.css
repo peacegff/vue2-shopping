@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1679560254448') format('truetype');
+  src: url('iconfont.ttf?t=1680002808991') format('truetype');
 }
 
 .iconfont {
@@ -17,5 +17,29 @@
 
 .icon-unlock:before {
   content: "\e844";
+}
+
+.icon-statistics-fill:before {
+  content: "\e601";
+}
+
+.icon-jiaosequanxian:before {
+  content: "\e606";
+}
+
+.icon-renwu:before {
+  content: "\e607";
+}
+
+.icon-yingyongguanli:before {
+  content: "\e60a";
+}
+
+.icon-cart_fill:before {
+  content: "\e60f";
+}
+
+.icon-shebeishezhi:before {
+  content: "\e617";
 }
 

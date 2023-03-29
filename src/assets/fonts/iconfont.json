@@ -18,6 +18,48 @@
       "font_class": "unlock",
       "unicode": "e844",
       "unicode_decimal": 59460
+    },
+    {
+      "icon_id": "34687202",
+      "name": "statistics-fill",
+      "font_class": "statistics-fill",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "34746625",
+      "name": "角色权限",
+      "font_class": "jiaosequanxian",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "34746628",
+      "name": "任务",
+      "font_class": "renwu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "34746633",
+      "name": "应用管理",
+      "font_class": "yingyongguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "34753931",
+      "name": "cart_fill",
+      "font_class": "cart_fill",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "34777049",
+      "name": "设备设置",
+      "font_class": "shebeishezhi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
     }
   ]
 }
